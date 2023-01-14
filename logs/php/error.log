@@ -1,0 +1,124 @@
+[20-Jun-2022 11:45:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-admin\includes\plugin-install.php on line 183
+[20-Jun-2022 11:45:57 UTC] PHP Stack trace:
+[20-Jun-2022 11:45:57 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-admin\plugin-install.php:0
+[20-Jun-2022 11:45:57 UTC] PHP   2. do_action() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-admin\plugin-install.php:196
+[20-Jun-2022 11:45:57 UTC] PHP   3. WP_Hook->do_action() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\plugin.php:476
+[20-Jun-2022 11:45:57 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php:331
+[20-Jun-2022 11:45:57 UTC] PHP   5. install_dashboard() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php:307
+[20-Jun-2022 11:45:57 UTC] PHP   6. install_popular_tags() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-admin\includes\plugin-install.php:277
+[20-Jun-2022 11:45:57 UTC] PHP   7. plugins_api() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-admin\includes\plugin-install.php:252
+[20-Jun-2022 11:45:57 UTC] PHP   8. trigger_error() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-admin\includes\plugin-install.php:183
+[20-Jun-2022 12:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:33:27 UTC] PHP Stack trace:
+[20-Jun-2022 12:33:27 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:33:27 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:33:27 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:33:27 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:34:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:34:40 UTC] PHP Stack trace:
+[20-Jun-2022 12:34:40 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:34:40 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:34:40 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:34:40 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:36:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:36:05 UTC] PHP Stack trace:
+[20-Jun-2022 12:36:05 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:36:05 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:36:05 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:36:05 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:37:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:37:43 UTC] PHP Stack trace:
+[20-Jun-2022 12:37:43 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:37:43 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:37:43 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:37:43 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:38:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:38:04 UTC] PHP Stack trace:
+[20-Jun-2022 12:38:04 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:38:04 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:38:04 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:38:04 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:39:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:39:37 UTC] PHP Stack trace:
+[20-Jun-2022 12:39:37 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:39:37 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:39:37 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:39:37 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:39:46 UTC] PHP Stack trace:
+[20-Jun-2022 12:39:46 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:39:46 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:39:46 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:39:46 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:42:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:42:32 UTC] PHP Stack trace:
+[20-Jun-2022 12:42:32 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:42:32 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:42:32 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:42:32 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 12:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-program.php on line 79
+[20-Jun-2022 12:43:39 UTC] PHP Stack trace:
+[20-Jun-2022 12:43:39 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[20-Jun-2022 12:43:39 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[20-Jun-2022 12:43:39 UTC] PHP   3. require_once() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:19
+[20-Jun-2022 12:43:39 UTC] PHP   4. include() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php:106
+[20-Jun-2022 21:59:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 14
+[20-Jun-2022 21:59:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 14
+[20-Jun-2022 22:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitized_text_field() in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php:17
+Stack trace:
+#0 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php(1143): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api.php(394): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php(307): re in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 17
+[21-Jun-2022 14:37:12 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 56
+[21-Jun-2022 14:37:13 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 56
+[21-Jun-2022 14:37:19 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 56
+[21-Jun-2022 14:37:19 UTC] PHP Parse error:  syntax error, unexpected '{' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 56
+[21-Jun-2022 15:23:21 UTC] PHP Warning:  array_unique() expects at least 1 parameter, 0 given in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php on line 97
+[21-Jun-2022 15:23:21 UTC] PHP Stack trace:
+[21-Jun-2022 15:23:21 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[21-Jun-2022 15:23:21 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[21-Jun-2022 15:23:21 UTC] PHP   3. wp() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:16
+[21-Jun-2022 15:23:21 UTC] PHP   4. WP->main() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\functions.php:1330
+[21-Jun-2022 15:23:21 UTC] PHP   5. WP->parse_request() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp.php:770
+[21-Jun-2022 15:23:21 UTC] PHP   6. do_action_ref_array() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp.php:398
+[21-Jun-2022 15:23:21 UTC] PHP   7. WP_Hook->do_action() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\plugin.php:524
+[21-Jun-2022 15:23:21 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php:331
+[21-Jun-2022 15:23:21 UTC] PHP   9. rest_api_loaded() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php:307
+[21-Jun-2022 15:23:21 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api.php:394
+[21-Jun-2022 15:23:21 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php:414
+[21-Jun-2022 15:23:21 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php:990
+[21-Jun-2022 15:23:21 UTC] PHP  13. universitySearchResults() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php:1143
+[21-Jun-2022 15:23:21 UTC] PHP  14. array_unique() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php:97
+[21-Jun-2022 15:23:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\search-route.php:97) in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1717
+[21-Jun-2022 15:23:21 UTC] PHP Stack trace:
+[21-Jun-2022 15:23:21 UTC] PHP   1. {main}() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:0
+[21-Jun-2022 15:23:21 UTC] PHP   2. require() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php:17
+[21-Jun-2022 15:23:21 UTC] PHP   3. wp() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php:16
+[21-Jun-2022 15:23:21 UTC] PHP   4. WP->main() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\functions.php:1330
+[21-Jun-2022 15:23:21 UTC] PHP   5. WP->parse_request() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp.php:770
+[21-Jun-2022 15:23:21 UTC] PHP   6. do_action_ref_array() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp.php:398
+[21-Jun-2022 15:23:21 UTC] PHP   7. WP_Hook->do_action() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\plugin.php:524
+[21-Jun-2022 15:23:21 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php:331
+[21-Jun-2022 15:23:21 UTC] PHP   9. rest_api_loaded() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\class-wp-hook.php:307
+[21-Jun-2022 15:23:21 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api.php:394
+[21-Jun-2022 15:23:21 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php:447
+[21-Jun-2022 15:23:21 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php:1729
+[21-Jun-2022 15:23:21 UTC] PHP  13. header() C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\rest-api\class-wp-rest-server.php:1717
+[21-Jun-2022 21:42:16 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\search.php on line 13
+[21-Jun-2022 22:40:48 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\header.php on line 48
+[22-Jun-2022 22:13:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-professor.php:40
+Stack trace:
+#0 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-blog-header.php(19): require_once('C:\\Users\\kaveen...')
+#2 C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\index.php(17): require('C:\\Users\\kaveen...')
+#3 {main}
+  thrown in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\single-professor.php on line 40
+[22-Jun-2022 23:37:47 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 21
+[22-Jun-2022 23:37:47 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 21
+[22-Jun-2022 23:37:48 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 21
+[22-Jun-2022 23:37:48 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 21
+[22-Jun-2022 23:39:31 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 32
+[23-Jun-2022 00:08:11 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 53
+[23-Jun-2022 00:08:11 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\kaveenThivanka\Local Sites\universityclone02\app\public\wp-content\themes\university-clone-theme\inc\like-route.php on line 53
